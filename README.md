@@ -1,2 +1,2 @@
 ## Resources
-- [https://www.khanacademy.org/computing/computer-science/algorithms](Khanacademy)
+- [Khanacademy](https://www.khanacademy.org/computing/computer-science/algorithms)
